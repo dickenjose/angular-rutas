@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "reforzamiento-angular"
+  "defaultProject": "reforzamiento-angular",
+  "cli": {
+    "analytics": "8d030c16-3582-45c8-88aa-7b4e1c9455f7"
+  }
 }
